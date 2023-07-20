@@ -1,6 +1,6 @@
 /*
 In built sorting Syntax:'
-sort(starting point, ending point + 1);
+sort(starting point, ending point);
 */
 
 #include <bits/stdc++.h>
