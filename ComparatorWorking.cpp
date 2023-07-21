@@ -44,7 +44,9 @@ int main(){
     // }
 
     // sort(a.begin(),a.end());  This will sort in ascending order
+
     sort(a.begin(),a.end(),cmp); //This will now sort in descending 
+    
     //If you want to swap then return false for function should_i_swap
     //OR return directly the condition you wanted
     for (int  i = 0; i < n; i++)
